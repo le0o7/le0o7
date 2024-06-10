@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I´m Léo, a student.
 <!--
 **le0o7/le0o7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
